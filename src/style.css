@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: sin;
+  src: url("./assets/fonts/sine/SyneMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: dmt;
+  src: url("./assets/fonts//dm/DMMono-Regular.ttf");
+}
